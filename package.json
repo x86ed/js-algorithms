@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/x86ed/js-algorithms/issues"
   },
-  "homepage": "https://github.com/x86ed/js-algorithms#readme"
+  "homepage": "https://github.com/x86ed/js-algorithms#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
 }
