@@ -1,0 +1,24 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "A scratchpad of common algorithms written in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x86ed/js-algorithms.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "algorithms"
+  ],
+  "author": "Adam Siegel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x86ed/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/x86ed/js-algorithms#readme"
+}
